@@ -1,0 +1,2 @@
+// This is a quick tab duplicate written by me that when clicked, allows you to open the current tab in a new tab without the need for right-clicking the tab, save as a bookmark //
+javascript:(function()%7BsetTimeout(dupeTab%2C%200)%3Bfunction%20dupeTab()%20%7Bvar%20url%20%3D%20window.location.href%3Bwindow.open(url%2C%20%22_blank%22)%3B%7D%7D)()
