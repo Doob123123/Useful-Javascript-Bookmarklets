@@ -1,0 +1,2 @@
+//Written by me, allows you to create new cookies or edit current ones for any webpage, save as a bookmark //
+javascript:(function()%7Bvar%20cookiename%20%3D%20prompt('Type%20the%20cookie%20name%20exactly%20as%20it%20appears.')%3Bcookiename%20%3D%20cookiename%20%2B%20'%3D'%3Bdocument.cookie%20%3D%20cookiename%20%2B%20prompt('New%20cookie%20contents%3F')%3Balert(document.cookie)%7D)()
