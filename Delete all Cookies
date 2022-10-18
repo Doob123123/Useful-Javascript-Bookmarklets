@@ -1,0 +1,2 @@
+// Deletes all cookies, save as a bookmark, works only on the current page (the page you are on) //
+javascript:(function(){C=document.cookie.split(
