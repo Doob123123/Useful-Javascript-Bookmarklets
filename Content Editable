@@ -1,0 +1,5 @@
+// Content editable, save as a bookmark //
+javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
+
+// Turn off Content Editable, save as a bookmark //
+javascript:document.body.contentEditable = 'false'; document.designMode='off'; void 0
