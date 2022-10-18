@@ -1,2 +1,2 @@
-// Enables right click on websites where it is disabled, may not allow you to do some things that you want, but pulls up the native right-click context menu present for any browser. //
+// Enables right click on websites where it is disabled, may not allow you to do some things that you want, but pulls up the native right-click context menu present for any browser. Save as a bookmark//
 javascript:void(document.oncontextmenu = null)
